@@ -3,7 +3,7 @@
 #include "namelist.h"
 
 using std::cout;
-using std::end;
+using std::endl;
 
 const char* names[] = {"Adams", "Baker", "Clarke", "Daniels", "Evans",
 		 "Franklin", "Gerhardt", "Hardy", "Ives", "Jacobs",
